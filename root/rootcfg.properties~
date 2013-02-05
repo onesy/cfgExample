@@ -1,0 +1,5 @@
+#plugincube
+plugincfg=plugin/plugin_cfg.properties
+#localcube
+localcfg=localcube/localcube_cfg.properties
+#remotecfg
