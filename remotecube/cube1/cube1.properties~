@@ -1,8 +1,0 @@
-# cubeMagic
-cubeMagic=00000001
-# properties dir for cube
-propertyfiles=remotecube/cube1/propertiesfiles
-# organize Magic numbers in this cube
-orgMagics=remotecube/cube1/orgMaigcs
-# slice magic numbers in this cube
-sliceMaigcs=remotecube/cube1/sliceMagics
